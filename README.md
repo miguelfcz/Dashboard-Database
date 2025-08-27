@@ -1,3 +1,5 @@
+![Foto DashBoard](https://github.com/miguelfcz/Dashboard-Database/blob/6508ef26b6a542623a08e35b2fc50d464c2d684a/Projeto%20Database/midia/Foto%20Dashboard.png)
+
 Este projeto é um dashboard interativo desenvolvido como parte da Imersão de Dados da Alura. O objetivo é visualizar e analisar dados de salários de profissionais da área de Dados, permitindo uma exploração dinâmica através de filtros e gráficos interativos.
 
 A aplicação foi construída para ser uma ferramenta intuitiva, onde os usuários podem segmentar os dados por diversos critérios e extrair insights sobre o mercado de trabalho em Dados.
