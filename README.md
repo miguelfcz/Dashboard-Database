@@ -53,39 +53,46 @@ As seguintes ferramentas e bibliotecas foram essenciais para a construção dest
 ⚙️ Como Executar o Projeto Localmente
 
 Para rodar este projeto na sua máquina, siga os passos abaixo.
+Clone o repositório:
 
-    Clone o repositório:
     Bash
-
-git clone https://github.com/miguelfcz/dashboard-database.git
+    
+    git clone https://github.com/miguelfcz/dashboard-database.git
 
 Navegue até o diretório do projeto:
-Bash
 
-cd dashboard-database/Projeto\ Database
+    Bash
+    
+    cd dashboard-database/Projeto\ Database
+
 
 Crie um ambiente virtual (recomendado):
-Bash
-
-python -m venv venv
+    
+    Bash
+    
+    python -m venv venv
 
 No Windows:
-Bash
 
-venv\Scripts\activate
+    Bash
+
+    venv\Scripts\activate
 
 No macOS/Linux:
-Bash
+    
+    Bash
 
-source venv/bin/activate
+    source venv/bin/activate
 
 Instale as dependências:
-Bash
 
-pip install -r Requirements.txt
+    Bash
+
+    pip install -r Requirements.txt
 
 Execute a aplicação Streamlit:
-Bash
+
+    Bash
 
     streamlit run App.py
 
